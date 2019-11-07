@@ -1,2 +1,3 @@
-# a Shopping Cart using NodeJS with Express and MongoDB.
+## a Shopping Cart using NodeJS with Express and MongoDB
 
+![]("images/screeshot.png")
